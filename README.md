@@ -29,12 +29,12 @@ Download ZIP, 解压，将 Shields-Typecho-Plugin-master 重命名为 Shields �
 ```
 
 #### 效果
-!https://github.com/journey-ad
-!https://github.com/journey-ad/Shields-Typecho-Plugin
-!https://github.com/journey-ad/Shields-Typecho-Plugin/fork
-!https://github.com/journey-ad/Shields-Typecho-Plugin/releases
-!https://github.com/journey-ad/Shields-Typecho-Plugin/releases/latest
-!https://github.com/journey-ad/Shields-Typecho-Plugin/releases/tag/V1.0.0
+<object data="https://img.shields.io/github/followers/journey-ad.svg?style=social&logo=github&label=Follow" type="image/svg+xml"></object>
+<object data="https://img.shields.io/github/stars/journey-ad/Shields-Typecho-Plugin.svg?style=social&logo=github&label=Stars" type="image/svg+xml"></object>
+<object data="https://img.shields.io/github/forks/journey-ad/Shields-Typecho-Plugin.svg?style=social&logo=github&label=Fork" type="image/svg+xml"></object>
+<object data="https://img.shields.io/github/downloads/journey-ad/Shields-Typecho-Plugin/total.svg&style=social" type="image/svg+xml"></object>
+<object data="https://img.shields.io/github/downloads/journey-ad/Shields-Typecho-Plugin/latest/total.svg&style=social" type="image/svg+xml"></object>
+<object data="https://img.shields.io/github/downloads/journey-ad/Shields-Typecho-Plugin/v1.0.0/total.svg&style=social" type="image/svg+xml"></object>
 
 ## Thanks
 
